@@ -2,4 +2,4 @@
 #
 #
 
-netstat -l --program
+sudo netstat -tuln --program
