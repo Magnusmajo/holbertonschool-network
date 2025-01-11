@@ -1,3 +1,5 @@
 #!/usr/bin/env bash
-# docdoc
-netstat -l -p
+#doc
+#doc
+
+netstat -l --program
